@@ -15,5 +15,8 @@
     "url": "https://github.com/Mayte1997/BootstrapProject/issues"
   },
   "homepage": "https://github.com/Mayte1997/BootstrapProject#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
 }
